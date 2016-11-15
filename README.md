@@ -2,7 +2,7 @@
 
 Hey! Freut mich, dass du beim **React for Beginners**-Kurs mit dabei bist. Damit alles so reibungslos wie möglich abläuft, wäre es klasse, wenn du im Vorfeld ausprobieren könntest, dass das Repository bei dir läuft.
 
-Zuallererst solltest du [git](https://git-scm.com/downloads) und die letzte stable version von [node](https://nodejs.org/en/) installieren. Danach bitte folgenden Befehlen in deinem Terminal eingeben:
+Zuallererst solltest du [git](https://git-scm.com/downloads) und die letzte stable version von [node](https://nodejs.org/en/) installieren. Danach bitte folgende Befehle in deinen Terminal eingeben:
 
 ```
 git clone https://github.com/herrkris/react-for-beginners.git
