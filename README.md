@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-Dann bitte http://localhost:8080 in deinem Browser öffnen und du solltest eine Liste von Aufgaben sehen.
+Dann bitte <http://localhost:8080> in deinem Browser öffnen und du solltest eine Liste von Aufgaben sehen.
 
 Geschafft!
 
