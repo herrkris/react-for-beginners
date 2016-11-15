@@ -1,0 +1,41 @@
+body {
+  background: #eee;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+button:focus {
+  outline: 2px solid hsl(200, 50%, 50%);
+}
+a:link,
+a:visited {
+  color: #00D;
+  text-decoration: none;
+}
+a:link:hover {
+  text-decoration: underline;
+}
+
+#index .lecture-link {
+  font-size: 1.5em;
+}
+#index .lecture-link a:link,
+#index .lecture-link a:visited {
+  color: black;
+}
+#index table {
+  margin: 5em auto;
+}
+#index table tr.odd {
+  background: #e3e3e3;
+}
+#index table td {
+  padding: 10px;
+}
+#index table td.exercise-link {
+  padding-left: 20px;
+}
+
+
+.hot {
+  color: red;
+}

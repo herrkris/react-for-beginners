@@ -1,0 +1,5 @@
+subjects/index.html
+subjects/**/lecture.html
+subjects/**/exercise.html
+subjects/**/solution.html
+node_modules
