@@ -14,9 +14,9 @@
  *   (Hinweis: Du wirst einen `updateThePage` Funktion benötigen, die `ReactDOM.render`
  *    aufruf, welche aus dem Event-Handler deiner Form-Komponente aufgerufen wird)
  */
-import React from 'react'
-import ReactDOM from 'react-dom'
-import sortBy from 'sort-by'
+ const React = require('react');
+ const ReactDOM = require('react-dom');
+ const sortBy = require('sort-by');
 
 const DATA = {
   title: 'Gerichte',
