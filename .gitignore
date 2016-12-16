@@ -3,3 +3,7 @@ subjects/**/lecture.html
 subjects/**/exercise.html
 subjects/**/solution.html
 node_modules
+yarn.lock
+.DS_Store
+*.log
+.idea

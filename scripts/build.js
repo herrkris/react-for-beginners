@@ -24,6 +24,7 @@ const SubjectsDir = path.join(RootDir, 'subjects');
 const Subjects = {
   HelloWorld: 'Hallo Welt',
   Rendering: 'Rendering',
+  SVG: 'SVG',
 };
 
 const SubjectDirNames = Object.keys(Subjects);
